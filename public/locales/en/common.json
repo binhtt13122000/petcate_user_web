@@ -1,0 +1,21 @@
+{
+    "runCommand": "Run: <0>{{command}}</0>",
+    "description": "OK Eng",
+    "approve": "Approve",
+    "cancel": "Cancel",
+    "postManagement": "Posts Management",
+    "petManagement": "Pets Management",
+    "contractsTitle": "Contracts",
+    "saleTransaction": "Sale Transaction",
+    "breedingTransaction": "Breeding Transaction",
+    "save": "Save",
+    "confirmHeader": "Confirm",
+    "error": {
+        "add": "Add failed!",
+        "update": "Update failed!"
+    },
+    "success": {
+        "add": "Add successfully!",
+        "update": "Update Successfully!"
+    }
+}

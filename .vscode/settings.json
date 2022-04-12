@@ -1,0 +1,10 @@
+{
+    "i18n-ally.localesPaths": [
+        "i18n"
+    ],
+    "cSpell.words": [
+        "ckeditor",
+        "localforage",
+        "unoptimized"
+    ]
+}

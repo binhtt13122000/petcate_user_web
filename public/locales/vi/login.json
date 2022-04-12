@@ -1,0 +1,18 @@
+{
+    "welcome": "Chào mừng đến với PetStore",
+    "signInPhone": "Đăng nhập bằng số điện thoại",
+    "titlePhoneField": "Số điện thoại",
+    "requiredPhoneField": "Vui lòng nhập số điện thoại",
+    "requiredOTPField": "Vui lòng nhập mã OTP!",
+    "requestOTP": "Gửi mã OTP",
+    "verifyOTPSuccess": "Xác thực mã OTP thành công",
+    "verifyOTPFail": "Invalid OTP",
+    "titleOTPField": "OTP",
+    "descOTPField": "Vui lòng nhập mã OTP được gửi đến điện thoại của bạn",
+    "timerDesc": "Vui lòng chờ {{timer}} giây để thử lại",
+    "didNotReceiveOTP": "Bạn không nhận được mã?",
+    "resendOTP": "Gửi lại",
+    "or": "hoặc",
+    "anotherPhone": "thử bằng số điện thoại khác",
+    "login": "Đăng nhập"
+}

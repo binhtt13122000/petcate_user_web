@@ -1,0 +1,21 @@
+{
+    "runCommand": "Vui lòng chạy <0>{{command}}</0>",
+    "description": "OK",
+    "approve": "Xác nhận",
+    "cancel": "Hủy",
+    "postManagement": "Quản lý bài đăng",
+    "petManagement": "Quản lý thú cưng",
+    "contractsTitle": "Hợp đồng",
+    "saleTransaction": "Hợp đồng mua bán",
+    "breedingTransaction": "Hợp đồng phối giống",
+    "save": "Lưu",
+    "confirmHeader": "Xác nhận",
+    "error": {
+        "add": "Thêm mới thất bại!",
+        "update": "Chỉnh sửa thất bại!"
+    },
+    "success": {
+        "add": "Thêm mới thành công!",
+        "update": "Chỉnh sửa thành công!"
+    }
+}

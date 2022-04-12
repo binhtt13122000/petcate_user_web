@@ -1,0 +1,18 @@
+{
+    "welcome": "Welcome to PetStore",
+    "signInPhone": "Sign in with phone",
+    "titlePhoneField": "Phone number",
+    "requiredPhoneField": "Please enter your phone number",
+    "requiredOTPField": "Please enter OTP!",
+    "verifyOTPSuccess": "Verify OTP Success",
+    "verifyOTPFail": "Verify OTP Fail!",
+    "requestOTP": "Send OTP",
+    "titleOTPField": "OTP",
+    "descOTPField": "Please enter the one time pin sent to your phone",
+    "timerDesc": "Please waiting after {{timer}} seconds to try again",
+    "didNotReceiveOTP": "Did not receive OTP?",
+    "resendOTP": "Try again",
+    "or": "or",
+    "anotherPhone": "use another phone number",
+    "login": "Login"
+}

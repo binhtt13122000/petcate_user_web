@@ -1,0 +1,12 @@
+{
+    "notifyFiltering": "Phải chọn ít nhất một cột để hiển thị.",
+    "currentSelect": "{{rowNumber}} hàng được chọn.",
+    "deleteConfirm": "Bạn có muốn thực hiện xóa?",
+    "updateTooltip": "Chỉnh sửa",
+    "deleteTooltip": "Xóa",
+    "addTooltip": "Thêm mới",
+    "manipulation": "Thao tác",
+    "viewTooltip": "Xem chi tiết",
+    "pagination": "{{from}}–{{to}} của {{count}}",
+    "labelRowsPerPage": "Số dòng mỗi trang:"
+}
